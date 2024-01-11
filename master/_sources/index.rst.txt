@@ -1,0 +1,30 @@
+lcls-plc-cxi-sample-delivery
+----------------------------
+
+.. toctree::
+    :maxdepth: 2
+    :caption: lcls-plc-cxi-sample-delivery
+
+    lcls-plc-cxi-sample-delivery_pragmas
+    lcls-plc-cxi-sample-delivery_nc
+    lcls-plc-cxi-sample-delivery_ethercat
+    lcls-plc-cxi-sample-delivery_boxes
+    lcls-plc-cxi-sample-delivery_links
+
+
+.. toctree::
+    :maxdepth: 2
+    :caption: sample_delivery
+
+    lcls-plc-cxi-sample-delivery_sample_delivery_summary
+    lcls-plc-cxi-sample-delivery_sample_delivery_epics
+    lcls-plc-cxi-sample-delivery_sample_delivery_source
+
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
